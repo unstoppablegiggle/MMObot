@@ -9,7 +9,7 @@ Then simply run the GUI.py script and follow the on-screen directions. It should
 that this function be used due to how slow it is.
 
 ## Notes
-- Using this program may constitute cheating in certain videos games, and could result in being banned. Use at your own discretion, I am not responsible for your lack of gray matter.
+- Using this program may constitute cheating in certain video games, and could result in being banned. Use at your own discretion, I am not responsible for your lack of gray matter.
 - I may come back to this project and add in mouse dragging and wrap it in a .exe to make it more user friendly.
 
 ## References
